@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Graffiti Creator
 
 ## Inspiration
@@ -52,3 +53,13 @@ cp paint.sh /your_path/myrepo
 
 
 
+=======
+# gitfiti
+
+**Letting artistic tendencies shine since 2016.**
+
+Sponsored by Eclipse and .jar files, with a special shoutout to https://github.com/gelstudios/gitfiti for all the incredible foundational work.
+
+### Next Steps:
+- Creating a mobile/web app to automatically abuse github commit history.
+>>>>>>> a65bcdb8a8836c4e6d341a9f9f35b4641303edad
