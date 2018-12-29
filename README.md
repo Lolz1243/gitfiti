@@ -1,6 +1,6 @@
 # gitfiti
 
-## **Letting artistic tendencies shine since 2016.**
+## **Letting artistic tendencies shine since 20??.**
 
 ### Setup Instructions
 - a Java Runtime Environment (check out Oracle's official [JRE](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).)
