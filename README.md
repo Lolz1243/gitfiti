@@ -1,8 +1,8 @@
 # gitfiti
 
 ### Setup Instructions
-- a Java Runtime Environment (check out Oracle's official JRE's here: https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
-- a Bash Terminal (check out Git Bash here: https://git-scm.com/downloads)
+- a Java Runtime Environment (check out Oracle's official [JRE](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).)
+- a Bash Terminal (check out [Git Bash](https://git-scm.com/downloads).)
 
 **Part 1** Clone this repo
 `git clone https://github.com/Lolz1243/gitfiti`
