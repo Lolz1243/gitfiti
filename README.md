@@ -1,4 +1,4 @@
-#gitfiti
+# gitfiti
 
 ### Setup Instructions
 - a Java Runtime Environment (check out Oracle's official JRE's here: https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
