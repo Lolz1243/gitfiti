@@ -33,12 +33,12 @@ NOTE: If **dates.txt** isn't generated for you, run `Selectable_Grid.jar` in you
 **Part 4:**
 
 
-Create a new repo or find an existing one that you don't mind sacrificing. We'll refer to this as `user_repo`
+Create a new repo or find an existing one that you don't mind sacrificing. We'll refer to this as `user_repo` in the following steps.
 
 **Part 5:**
 
 
-Clone this repository
+Clone this repository:
 `git clone https://github.com/user_name/user_repo`
 
 **Part 6:**
@@ -49,7 +49,7 @@ Clone this repository
 **Part 7:**
 
 
-Configure your email address (and name) if you want to by `git config --local user.name user_name user.email user@abc.com`
+Configure your email address (and name) if you want to by doing: `git config --local user.name user_name user.email user@abc.com`
 
 NOTE: This email should be linked to the same github account you created the repo in.
 
@@ -71,7 +71,7 @@ Or:
 **Part 9:**
 
 
-Run the shell script in your bash
+Run the shell script in your bash:
 `bash paint.sh dates.txt`
 
 **Part 10:**
