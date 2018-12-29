@@ -80,9 +80,9 @@ Run the shell script in your bash
 Enjoy! All your hard work will be committed and presented to the world in less time than it took me to get out of bed.
 
 
-Sponsored by Eclipse and the infamous .jar extension, with a special shoutout to [gelstudios](https://github.com/gelstudios) for all the incredible foundational work.
+Sponsored by Eclipse and the infamous .jar extension, with a special shoutout to [gelstudios](https://github.com/gelstudios) for all the incredible foundational work and naming creds.
 
 
 ### Next Steps:
 - Creating a mobile/web app to automatically abuse github commit history.
-- Utilizing OpenCV to analyze real-time images and converting them to bitmaps to be displayed on GitHub commit history calendars.
+- Utilizing OpenCV to instantly analyze real-time images/videos/media and subsequently converting them to bitmaps to be displayed on GitHub commit history calendars as true `gitfiti`.
