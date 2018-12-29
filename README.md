@@ -1,65 +1,53 @@
-<<<<<<< HEAD
-# GitHub Graffiti Creator
+#gitfiti
 
-## Inspiration
-So, there is a friend of mine and she had her birthday. I noticed that she has not created a github user account yet, so I went ahead to create one for her. And wrote this application, to design and create a special birthday message for her. 
+### Setup Instructions
+- a Java Runtime Environment (check out Oracle's official JRE's here: https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
+- a Bash Terminal (check out Git Bash here: https://git-scm.com/downloads)
 
-![The birthday message](https://github.com/mavrk/github-graffiti/blob/master/images/demo.png "The birthday message")
+**Part 1** Clone this repo
+`git clone https://github.com/Lolz1243/gitfiti`
 
-### What do you need ?
-1. Java runtime environment (https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
-2. A bash terminal (https://gitforwindows.org/ will work like a charm for Windows users)
-
-### How to get started ?
-
-**Step-1** Clone this repository
-`git clone https://github.com/mavrk/github-graffiti`
-
-**Step-2** Open the GUI editor
+**Part 2** Open the .jar (GUI editor for gitfiti)
 ```
-cd github-graffiti
+cd gitfiti
 cd dist
 java -jar Selectable_Grid.jar
 ```
-Click on any cell to color it, click again to cycle through colors
-![Sample Design](https://github.com/mavrk/github-graffiti/blob/master/images/demo2.png "Sample Design")
+Click on any cell to color it and scroll through for more colors (Check out [gelstudios](https://github.com/gelstudios/gitfiti)'s work for more details)
 
-**Step-3** Once done with making your design, right clicking anywhere inside the designer window. Enter the date (when you want this pattern to be displayed). A `dates.txt` file will be generated.
+**Part 3** Finished committing your heart out? Right click anywhere within the GUI editor window to enter the end date *DD/MM/YYYY* (ex. inputting 01/01/2017 will start your gitfiti in late 2015/early 2016). A `dates.txt` file should be generated right after and stored within the gitfiti folder.
 
-`If dates.txt isn't generated for you. Run the jar file using a terminal and copy the content generated in the terminal to a new file dates.txt`
+NOTE: If **dates.txt** isn't generated for you, run `Selectable_Grid.jar` in your terminal, and copy the content into a new file of the same name. 
 
-**Step-4**  Create a new repository (or use an old one). Let us call this 'myrepo'
+**Part 4**  Create a new repo or find an existing one that you don't mind letting go of. We'll refer to this as `user_repo`
 
-**Step-5** `git clone https://github.com/myuser/myrepo`
+**Part 5** `git clone https://github.com/user_name/user_repo`
 
-**Step-6** If the repository is not initialised `git init`
+**Part 6** `git init` if you haven't initialized your repo yet.
 
-**Step-7** To make sure that your commits are reflected in the contributions chart add the email address 
+**Part 7** Configure your email address (and name) if you want to by `git config --local user.name user_name user.email user@abc.com`
 
-`git config --local user.email mysuer@xyz.com`
+NOTE: This email should be linked to the same github account you created the repo in.
 
-NOTE : This email should be assosciated to the same github account you created the repo in.
+**Part 8** Copy `dates.txt` and `paint.sh` into `user_repo` where `user_repo` is your repository within your folder on your local computer.
 
-**Step-8** Copy `dates.txt` and `paint.sh` into `myrepo` where 'myrepo' is your repository.
-
+Either:
 ```
 cd /your_path/github-graffiti/dist
 cp dates.txt /your_path/myrepo
 cd /your_path/github-graffiti
 cp paint.sh /your_path/myrepo
 ```
-**Step-9** Run the script
+Or:
+`Ctrl+C` and `Ctrl+V`
+
+**Part 9** Run the shell script in your bash
 `bash paint.sh dates.txt`
-
-
-
-=======
-# gitfiti
 
 **Letting artistic tendencies shine since 2016.**
 
-Sponsored by Eclipse and .jar files, with a special shoutout to https://github.com/gelstudios/gitfiti for all the incredible foundational work.
+Sponsored by Eclipse and .jar files, with a special shoutout to [gelstudios](https://github.com/gelstudios) for all the incredible foundational work.
 
 ### Next Steps:
 - Creating a mobile/web app to automatically abuse github commit history.
->>>>>>> a65bcdb8a8836c4e6d341a9f9f35b4641303edad
+- Utilizing OpenCV to analyze real-time images and converting them to bitmaps to be displayed on GitHub commit history calendars.
