@@ -21,7 +21,7 @@ cd gitfiti
 cd dist
 java -jar Selectable_Grid.jar
 ```
-- Click on any cell to color it and scroll through for more colors (Check out [gelstudios](https://github.com/gelstudios/gitfiti)'s work for more details)
+- Click on any cell to color it and scroll through for more colors (browse through [gelstudios](https://github.com/gelstudios/gitfiti)'s work for more details)
 
 **Part 3:**
 
