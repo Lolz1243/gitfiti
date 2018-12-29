@@ -66,7 +66,7 @@ cd /your_path/github-graffiti
 cp paint.sh /your_path/myrepo
 ```
 Or:
-`Ctrl+C` and `Ctrl+V`
+`Ctrl+C` and `Ctrl+V` should work just fine.
 
 **Part 9:**
 
@@ -80,7 +80,7 @@ Run the shell script in your bash
 Enjoy! All your hard work will be committed and presented to the world in less time than it took me to get out of bed.
 
 
-Sponsored by Eclipse and .jar files, with a special shoutout to [gelstudios](https://github.com/gelstudios) for all the incredible foundational work.
+Sponsored by Eclipse and the infamous .jar extension, with a special shoutout to [gelstudios](https://github.com/gelstudios) for all the incredible foundational work.
 
 
 ### Next Steps:
