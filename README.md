@@ -1,6 +1,6 @@
 # gitfiti
 
-## **Letting artistic tendencies shine since 20XX**
+## **Letting artistic tendencies shine since early 2016**
 
 ### Setup Instructions
 - a Java Runtime Environment (check out Oracle's official [JRE](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).)
@@ -80,6 +80,8 @@ Run the shell script in your bash
 Enjoy! All your hard work will be committed and presented to the world in less time than it took me to get out of bed. If you want to jump in and help us out with our work, feel free to fork this repo and go wild. I'm excited to see what kinds of creations you all come up with.
 
 Sponsored by Eclipse and the infamous .jar extension, with a special shoutout to [gelstudios](https://github.com/gelstudios) for all the incredible foundational work and naming creds.
+
+Recently updated with Open Source MIT License
 
 
 ### Next Steps:
