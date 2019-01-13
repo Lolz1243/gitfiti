@@ -87,3 +87,5 @@ Recently updated with Open Source MIT License
 ### Next Steps:
 - Creating a mobile/web app to automatically abuse github commit history.
 - Utilizing OpenCV to instantly analyze real-time images/videos/media and subsequently converting them to bitmaps to be displayed on GitHub commit history calendars as true **gitfiti**.
+
+Made with ❤ in 2018
